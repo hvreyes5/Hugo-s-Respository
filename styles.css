@@ -23,3 +23,14 @@ figure img {
 article p{ 
  text-align: center;
 }
+
+a{
+  font-weight: bold;
+  color: blueviolet;
+}
+
+ul li a{
+  text-decoration: none;
+}
+
+
