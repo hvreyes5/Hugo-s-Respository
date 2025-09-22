@@ -33,4 +33,7 @@ ul li a{
   text-decoration: none;
 }
 
+nav ul{
+  list-style: none;
+}
 
