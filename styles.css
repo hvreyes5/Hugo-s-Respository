@@ -20,11 +20,6 @@ figure img {
     width: 40%;  
 }
 
-figure figcaption{
-text-indent: 5px;
-font-weight: bolder;
-}
-
 article p{ 
  text-align: center;
 }
