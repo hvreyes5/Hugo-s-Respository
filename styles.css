@@ -21,7 +21,7 @@ figure img {
 }
 
 figure figcaption{
-text-align: center;
+text-indent: 5px;
 font-weight: bolder;
 }
 
