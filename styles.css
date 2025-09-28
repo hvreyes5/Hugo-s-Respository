@@ -21,7 +21,7 @@ figure img {
 }
 
 figure figcaption{
-vertical-align: top;
+text-align: center;
 font-weight: bolder;
 }
 
