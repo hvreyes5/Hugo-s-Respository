@@ -20,6 +20,11 @@ figure img {
     width: 40%;  
 }
 
+figure figcaption{
+vertical-align: top;
+font-weight: bolder;
+}
+
 article p{ 
  text-align: center;
 }
