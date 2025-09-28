@@ -5,6 +5,7 @@ header h1 {
 
 header p {
   text-decoration-style: solid;
+  text-decoration: underline;
 }
 
 article p {
