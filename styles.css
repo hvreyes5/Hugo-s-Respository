@@ -46,6 +46,6 @@ border-bottom: 1px solid MediumVioletRed;
 padding: 5px;
 }
 
-p#main-content{
-  background-color: red;
+p#main-content {
+  -webkit-text-fill-color: blueviolet;
 }
