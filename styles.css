@@ -46,6 +46,6 @@ border-bottom: 1px solid MediumVioletRed;
 padding: 5px;
 }
 
-#main-content {
- padding-left: 100px;
+#main-content{
+  text-decoration: solid;
 }
