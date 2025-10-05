@@ -46,3 +46,7 @@ border-bottom: 1px solid MediumVioletRed;
 padding: 5px;
 }
 
+#main-conten{
+  background-color: darkviolet;
+  align-items: center;
+}
