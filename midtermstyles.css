@@ -7,3 +7,7 @@ body header h1 {
   text-align: center;
 }
 
+body figure figcaption {
+  caption-side: bottom;
+}
+
