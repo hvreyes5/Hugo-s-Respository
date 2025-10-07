@@ -8,6 +8,7 @@ body header h1 {
 }
 
 figcaption {
+  font-weight: 400;
   caption-side: bottom;
 }
 
