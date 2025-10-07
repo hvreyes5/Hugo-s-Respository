@@ -1,4 +1,9 @@
 p {
-  text-align: left;  
-  position: absolute;
+  text-align: left;
+  max-width: 300px;
+
+}
+
+header h1 {
+  text-align: center;
 }
