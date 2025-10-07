@@ -11,3 +11,7 @@ figcaption {
   caption-side: bottom;
 }
 
+figure {
+  max-width: 700px;
+}
+
