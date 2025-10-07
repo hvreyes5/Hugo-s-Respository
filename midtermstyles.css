@@ -12,6 +12,6 @@ figcaption {
 }
 
 figure {
-  max-width: 700px;
+  size-adjust: auto;
 }
 
