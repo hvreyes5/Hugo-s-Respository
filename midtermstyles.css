@@ -1,6 +1,9 @@
 p {
   text-align: left;
   min-width: auto;
-  max-width: auto;
+}
+
+body header h1 {
+  text-align: center;
 }
 
