@@ -11,5 +11,7 @@ figcaption {
   caption-side: bottom;
 }
 
-
+figure img {
+  max-width: 800px;
+}
 
