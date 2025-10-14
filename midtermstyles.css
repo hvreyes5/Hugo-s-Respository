@@ -7,11 +7,6 @@ body header h1 {
   text-align: center;
 }
 
-figcaption {
-  caption-side: bottom;
-  font-weight: bold;
-}
-
 figure img {
   max-width: 800px;
 }
@@ -23,4 +18,10 @@ footer#page-footer {
 
 footer#page-footer p {
   text-align: center;
+}
+
+figure img figcaption {
+ caption-side: bottom;
+ font-weight: bold;
+ font-family: 'Times New Roman', Times, serif;
 }
