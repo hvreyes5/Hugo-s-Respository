@@ -15,7 +15,7 @@ figure img {
   max-width: 800px;
 }
 
-footer#page-footer {
+footer#page-footer p {
   text-align: center;
   margin-top: 64px;
   color: deeppink;
