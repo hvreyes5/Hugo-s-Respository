@@ -20,8 +20,6 @@ footer#page-footer p {
   text-align: center;
 }
 
-figure img figcaption {
+figcaption {
  caption-side: bottom;
- font-weight: bold;
- font-family: 'Times New Roman', Times, serif;
 }
