@@ -15,12 +15,9 @@ figure img {
   max-width: 800px;
 }
 
-footer#page-footer {
-  background-color: #414141;
-}
-
 footer#page-footer p {
   text-align: center;
   text-decoration: solid;
+  background-color: black;
 }
 
