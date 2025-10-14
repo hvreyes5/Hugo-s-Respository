@@ -15,7 +15,11 @@ figure img {
   max-width: 800px;
 }
 
-
 footer#page-footer{
+  background-color: cornflowerblue;
+  border-top: 200px;
+}
+
+footer#page-footer p{
   text-align: center;
 }
