@@ -10,7 +10,7 @@ body header h1 {
 
 figure img {
   max-width: 800px;
-  border: 100px solid black;
+  border: 10px solid black;
 }
 
 footer#page-footer {
