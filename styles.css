@@ -50,8 +50,12 @@ border-bottom: 1px solid MediumVioletRed;
 padding: 5px;
 }
 
-p#main-content {
+
+
+  @media all and (min-width:390px) {
+  p#main-content {
   text-align: center;
-  color: blueviolet;
   font-family: 'Times New Roman', Times, serif  
-}
+    }
+  }
+  
