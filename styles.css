@@ -50,7 +50,7 @@ border-bottom: 1px solid MediumVioletRed;
 padding: 5px;
 }
 
-  @media all and (min-width:390px) {
+  @media all and (min-width:376px) {
   p#main-content {
   text-align: center;
   font-family: 'Times New Roman', Times, serif  
