@@ -57,3 +57,11 @@ padding: 5px;
     }
   }
   
+  body.dark-mode {
+  background: #010101;
+  color: #ffffff;
+}
+
+body.dark-mode button {
+  background-color: #ffffff;
+}
